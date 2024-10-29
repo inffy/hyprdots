@@ -17,3 +17,5 @@ You will need atleast these apps/packages:
 - starship
 - waybar
 - zsh
+- nwg-look
+- catppuccin-gtk-theme-mocha
