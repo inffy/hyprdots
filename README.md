@@ -19,3 +19,6 @@ You will need atleast these apps/packages:
 - zsh
 - nwg-look
 - catppuccin-gtk-theme-mocha
+- fast-syntax-hilighting
+- zsh-syntax-hilighting
+- zsh-autosuggestions
