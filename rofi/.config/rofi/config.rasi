@@ -1,8 +1,11 @@
+
+/* ---- Configuration ---- */
 configuration{
-    modi: "run,window,combi";
-    icon-theme: "Oranchelo";
+    modi: "drun,run";
+    font: "CaskaydiaCove Nerd Font 8";
+    icon-theme: "Papirus-Dark";
     show-icons: true;
-    terminal: "alacritty";
+    terminal: "kitty";
     drun-display-format: "{icon} {name}";
     location: 0;
     disable-history: false;
@@ -12,5 +15,6 @@ configuration{
     display-window: " 🪟  Window";
     sidebar-mode: true;
 }
+
 
 @theme "catppuccin-mocha"
