@@ -9,7 +9,7 @@
 
 window#waybar {
     background: rgba(0, 0, 0, 0.7);
-    color: @overlay0;
+    color: @blue;
     transition-property: background-color;
     transition-duration: 0.1s;
     border-bottom: @transparent;
