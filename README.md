@@ -22,3 +22,4 @@ You will need atleast these apps/packages:
 - fast-syntax-hilighting
 - zsh-syntax-hilighting
 - zsh-autosuggestions
+- cliphist
