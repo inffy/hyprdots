@@ -53,14 +53,14 @@
 
 * {
   font-family: 'CaskaydiaCove Nerd Font', monospace;
-  font-size: 18px;
+  font-size: 15px;
 }
 
 /* Window */
 window {
   margin: 0px;
   padding: 10px;
-  border: 2px solid @lavender;
+  border: 2px solid @blue-rgb;
   border-radius: 8px;
   background-color: @base;
 }
@@ -126,11 +126,11 @@ window {
 
 /* Selected Entry */
 #entry:selected {
-  border: 0.11em solid @lavender;
+  border: 0.11em solid @blue;
 }
 
 #entry:selected #text {
-  color: @mauve;
+  color: @blue;
 }
 
 #entry:drop(active) {
