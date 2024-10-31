@@ -22,6 +22,8 @@
 # Load modular configarion
 # -----------------------------------------------------
 
+export "MICRO_TURECOLOR=1"
+
 for f in ~/.config/zshrc/*; do 
     if [ ! -d $f ] ;then
         c=`echo $f | sed -e "s=.config/zshrc=.config/zshrc/custom="`
