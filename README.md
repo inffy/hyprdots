@@ -23,3 +23,10 @@ You will need atleast these apps/packages:
 - zsh-syntax-hilighting
 - zsh-autosuggestions
 - cliphist
+
+
+I use GNU Stow to link my dotfiles to my .config directory. You can easily link you wanted config by issuing command on terminal:
+
+`stow <packagename>`
+
+where the package name is the top folder name of the config package
