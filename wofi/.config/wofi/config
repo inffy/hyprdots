@@ -1,0 +1,9 @@
+mode=drun
+allow_images=true
+show_icons=true
+icon_size=32
+gtk_dark=true
+icon_theme=Papirus-Dark
+image_size=32
+width=900
+hide_scroll=true
