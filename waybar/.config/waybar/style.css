@@ -114,6 +114,11 @@ button:hover {
     border-bottom: 2px solid @green;
 }
 
+#backlight {
+    color: @sky;
+    border-bottom: 2px solid @sky;
+}
+
 /* If workspaces is the leftmost module, omit left margin */
 .modules-left>widget:first-child>#workspaces {
     margin-left: 0;
