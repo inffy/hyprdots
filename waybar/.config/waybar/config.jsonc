@@ -2,7 +2,7 @@
   "position": "top",
   "modules-left": ["hyprland/workspaces"],
   "modules-center": ["hyprland/window"],
-  "modules-right": ["backlight", "network", "bluetooth", "pulseaudio", "battery", "clock"],
+  "modules-right": ["backlight", "network", "bluetooth", "pulseaudio", "battery", "clock", "tray", "custom/exit"],
   "clock": {
     "format": "<span foreground='#f5c2e7'>   </span>{:%a %d %H:%M}",
     "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>"
@@ -102,5 +102,18 @@
       ""
     ],
     "scroll-step": 1
+  },
+
+  // System tray
+  "tray": {
+    "icon-size": 18,
+    "spacing": 10
+  },
+  
+  // Power Menu
+  "custom/exit": {
+    "format": "",
+    "on-click": "wlogout",
+    "tooltip-format": "Power Menu"
   }
 }
