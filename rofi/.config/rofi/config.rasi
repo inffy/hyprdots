@@ -2,7 +2,7 @@
 /* ---- Configuration ---- */
 configuration{
     modi: "drun,run";
-    font: "CaskaydiaCove Nerd Font 8";
+    font: "JetBrains Nerd Font Mono 12";
     icon-theme: "Papirus-Dark";
     show-icons: true;
     terminal: "kitty";
@@ -14,6 +14,8 @@ configuration{
     display-run: " 🏃  Run ";
     display-window: " 🪟  Window";
     sidebar-mode: true;
+    width: 900px;
+    height: 1000px;
 }
 
 
