@@ -30,6 +30,8 @@ You will need atleast these apps/packages:
 - zsh-autosuggestions
 - cliphist
 - wlogout
+- catppuccin-cursors-mocha
+- catppuccin-cursors-macchiato
 
 I use GNU Stow to link my dotfiles to my .config directory. You can easily link you wanted config by issuing command on terminal:
 
