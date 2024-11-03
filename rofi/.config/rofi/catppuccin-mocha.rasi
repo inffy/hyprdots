@@ -17,10 +17,12 @@ element-text, element-icon , mode-switcher {
 }
 
 window {
-    height: 360px;
+    height: 500px;
+    width: 800px;
     border: 3px;
-    border-color: @border-col;
+    border-color: @blue;
     background-color: @bg-col;
+    border-radius:    10px;
 }
 
 mainbox {
