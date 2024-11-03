@@ -140,7 +140,7 @@ button:hover {
     margin: 0px 20px 0px 0px;
     padding:0px;
     font-size:16px;
-    color: @iconcolor;
+    color: @red;
 }
 
 /* If workspaces is the leftmost module, omit left margin */
