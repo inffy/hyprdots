@@ -25,11 +25,11 @@ You will need atleast these apps/packages:
 - zsh
 - nwg-look
 - catppuccin-gtk-theme-mocha
-- fast-syntax-hilighting
+- zsh-fast-syntax-hilighting
 - zsh-syntax-hilighting
 - zsh-autosuggestions
 - cliphist
-
+- wlogout
 
 I use GNU Stow to link my dotfiles to my .config directory. You can easily link you wanted config by issuing command on terminal:
 
