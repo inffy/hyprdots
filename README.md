@@ -33,6 +33,7 @@ You will need atleast these apps/packages:
 - wlogout
 - catppuccin-cursors-mocha
 - catppuccin-cursors-macchiato
+- brigtnessctl (if you need to change laptop screen brightness)
 
 I use GNU Stow to link my dotfiles to my .config directory. You can easily link you wanted config by issuing command on terminal:
 
