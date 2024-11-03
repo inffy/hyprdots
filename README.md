@@ -17,6 +17,7 @@ You will need atleast these apps/packages:
 - hyprland
 - hyprpaper
 - hyprlock
+- hypridle
 - swaync
 - wofi / rofi-wayland
 - kitty
