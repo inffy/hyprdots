@@ -14,6 +14,8 @@ which I have then modified somewhat.
 
 You will need atleast these apps/packages:
 
+- xdg-portal-gtk
+- xdg-portal-hyprland
 - hyprland
 - hyprpaper
 - hyprlock
@@ -26,8 +28,8 @@ You will need atleast these apps/packages:
 - zsh
 - nwg-look
 - catppuccin-gtk-theme-mocha
-- zsh-fast-syntax-hilighting
-- zsh-syntax-hilighting
+- zsh-fast-syntax-highlighting
+- zsh-syntax-highlighting
 - zsh-autosuggestions
 - cliphist
 - wlogout
