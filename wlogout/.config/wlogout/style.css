@@ -1,5 +1,5 @@
 window {
-    font-family: Caskaydia Cove Nerd Font;
+    font-family: JetBrains Mono Nerd Font;
     font-size: 14pt;
     color: #cdd6f4; /* text */
     background-color: rgba(30, 30, 46, 0.95);
@@ -37,7 +37,6 @@ button:focus {
 #logout:focus {
     background-image: image(url("./logout-hover.png"));
 }
-
 #suspend {
     background-image: image(url("./sleep.png"));
 }
