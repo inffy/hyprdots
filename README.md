@@ -14,8 +14,8 @@ which I have then modified somewhat.
 
 You will need atleast these apps/packages:
 
-- xdg-portal-gtk
-- xdg-portal-hyprland
+- xdg-desktop-portal-gtk
+- xdg-desktop-portal-hyprland
 - hyprland
 - hyprpaper
 - hyprlock
