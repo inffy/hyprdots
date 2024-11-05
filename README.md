@@ -42,7 +42,7 @@ You will need atleast these apps/packages:
 - ttf-meslo-nerd
 
 ## Arch
-> paru -Syu xdg-desktop-portal-gtk xdg-desktop-portal-hyprland hyprland hyprpaper hyprlock hypridle swaync wofi rofi-wayland kitty starship waybar zsh nwg-look catppuccin-gtk-theme-mocha zsh-fast-syntax-highlighting zsh-syntax-highlighting cliphist wlogout catppuccin-cursors-mocha brightnessctl oh-my-posh oh-my-zsh-git ttf-jetbrains-mono-nerd ttf-meslo-nerd
+  paru -Syu xdg-desktop-portal-gtk xdg-desktop-portal-hyprland hyprland hyprpaper hyprlock hypridle swaync wofi rofi-wayland kitty starship waybar zsh nwg-look catppuccin-gtk-theme-mocha zsh-fast-syntax-highlighting zsh-syntax-highlighting cliphist wlogout catppuccin-cursors-mocha brightnessctl oh-my-posh oh-my-zsh-git ttf-jetbrains-mono-nerd ttf-meslo-nerd
 
 
 I use GNU Stow to link my dotfiles to my .config directory. You can easily link your wanted config by issuing command on terminal:
