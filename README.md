@@ -39,7 +39,7 @@ You will need atleast these apps/packages:
 - oh-my-posh
 - oh-my-zsh-git
 
-I use GNU Stow to link my dotfiles to my .config directory. You can easily link you wanted config by issuing command on terminal:
+I use GNU Stow to link my dotfiles to my .config directory. You can easily link your wanted config by issuing command on terminal:
 
 `stow <packagename>`
 
