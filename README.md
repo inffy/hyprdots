@@ -46,11 +46,11 @@ You will need atleast these apps/packages:
 - hyprshot
 
 ## Arch (gnome base)
-``` paru -Syu xdg-desktop-portal-gtk xdg-desktop-portal-hyprland hyprland hyprpaper hyprlock hypridle swaync wofi rofi-wayland kitty starship waybar zsh nwg-look catppuccin-gtk-theme-mocha zsh-fast-syntax-highlighting zsh-syntax-highlighting cliphist wlogout catppuccin-cursors-mocha brightnessctl oh-my-posh oh-my-zsh-git ttf-jetbrains-mono-nerd ttf-meslo-nerd qt5ct qt6ct-kde mission-center hyprshot```
+``` paru -Syu xdg-desktop-portal-gtk xdg-desktop-portal-hyprland hyprland hyprpaper hyprlock hypridle swaync wofi rofi-wayland kitty starship waybar zsh nwg-look catppuccin-gtk-theme-mocha zsh-fast-syntax-highlighting zsh-syntax-highlighting cliphist wlogout catppuccin-cursors-mocha brightnessctl oh-my-posh-bin oh-my-zsh-git ttf-jetbrains-mono-nerd ttf-meslo-nerd qt5ct qt6ct-kde mission-center hyprshot```
 
 ## Arch (KDE  base)
 
-``` paru -Syu xdg-desktop-portal-kde xdg-desktop-portal-hyprland hyprland hyprpaper hyprlock hypridle swaync wofi rofi-wayland kitty starship waybar zsh nwg-look catppuccin-gtk-theme-mocha zsh-fast-syntax-highlighting zsh-syntax-highlighting cliphist wlogout catppuccin-cursors-mocha brightnessctl oh-my-posh oh-my-zsh-git ttf-jetbrains-mono-nerd ttf-meslo-nerd qt5ct qt6ct mission-center hyprshot qt5ct qt6ct-kde kvantum ```
+``` paru -Syu xdg-desktop-portal-kde xdg-desktop-portal-hyprland hyprland hyprpaper hyprlock hypridle swaync wofi rofi-wayland kitty starship waybar zsh nwg-look catppuccin-gtk-theme-mocha zsh-fast-syntax-highlighting zsh-syntax-highlighting cliphist wlogout catppuccin-cursors-mocha brightnessctl oh-my-posh-bin oh-my-zsh-git ttf-jetbrains-mono-nerd ttf-meslo-nerd qt5ct qt6ct mission-center hyprshot qt5ct qt6ct-kde kvantum ```
 
 I use GNU Stow to link my dotfiles to my .config directory. You can easily link your wanted config by issuing command on terminal:
 
