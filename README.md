@@ -46,11 +46,9 @@ You will need atleast these apps/packages:
 - hyprshot
 
 ## Arch (gnome base)
-``` paru -Syu xdg-desktop-portal-gtk xdg-desktop-portal-hyprland hyprland hyprpaper hyprlock hypridle swaync wofi rofi-wayland kitty starship waybar zsh nwg-look catppuccin-gtk-theme-mocha zsh-fast-syntax-highlighting zsh-syntax-highlighting cliphist wlogout catppuccin-cursors-mocha brightnessctl oh-my-posh-bin oh-my-zsh-git ttf-jetbrains-mono-nerd ttf-meslo-nerd qt5ct qt6ct-kde mission-center hyprshot```
+``` paru -Syu fastfetch eza python-pip python-gobject python-screeninfo tumbler brightnessctl nm-connection-editor network-manager-applet gtk4 libadwaita fuse2 imagemagick jq xclip zen-browser kitty htop nautilus nautilus-open-any-terminal python-pywal pinta blueman grim slurp cliphist nwg-look qt6ct waybar rofi-wayland polkit-gnome zsh zsh-completions fzf pavucontrol papirus-icon-theme breeze gvfs wlogout hyprshade waypaper grimblast-git otf-font-awesome ttf-fira-sans ttf-fira-code ttf-firacode-nerd hyprland hyprpaper hyprlock hypridle noto-fonts xdg-desktop-portal-hyprland libnotify kitty qt5-wayland qt6-wayland networkmanager git xdg-desktop-portal-gtk swaync starship catppuccin-gtk-theme-mocha zsh-fast-syntax-highlighting zsh-syntax-highlighting catppuccin-cursors-mocha oh-my-posh-bin oh-my-zsh-git ttf-jetbrains-mono-nerd ttf-meslo-nerd qt5ct qt6ct-kde mission-center hyprshot```
 
-## Arch (KDE  base)
 
-``` paru -Syu xdg-desktop-portal-kde xdg-desktop-portal-hyprland hyprland hyprpaper hyprlock hypridle swaync wofi rofi-wayland kitty starship waybar zsh nwg-look catppuccin-gtk-theme-mocha zsh-fast-syntax-highlighting zsh-syntax-highlighting cliphist wlogout catppuccin-cursors-mocha brightnessctl oh-my-posh-bin oh-my-zsh-git ttf-jetbrains-mono-nerd ttf-meslo-nerd qt5ct qt6ct mission-center hyprshot qt5ct qt6ct-kde kvantum ```
 
 I use GNU Stow to link my dotfiles to my .config directory. You can easily link your wanted config by issuing command on terminal:
 
