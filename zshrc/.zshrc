@@ -22,7 +22,7 @@
 # Load modular configarion
 # -----------------------------------------------------
 
-export "MICRO_TURECOLOR=1"
+export "MICRO_TRUECOLOR=1"
 
 for f in ~/.config/zshrc/*; do 
     if [ ! -d $f ] ;then
